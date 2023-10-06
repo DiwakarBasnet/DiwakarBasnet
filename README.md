@@ -11,5 +11,5 @@ Here are some ideas to get you started:
 
 🔗 &nbsp;**Connect with me**
 <p align="left">
-<a href="https://hashnode.com/@BeafyPanda" target="blank"><img align="center" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1611902473383/CDyAuTy75.png?auto=compress" alt="hashnode" height="30" width="40" /></a>
+<a href="https://medium.com/@7diwakarbasnet" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/5968/5968906.png" alt="medium" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/diwakar-basnet/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
