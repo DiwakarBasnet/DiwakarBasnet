@@ -7,7 +7,6 @@ Here are some ideas to get you started:
 -->
 - 🌱 I’m currently learning Deep Learning
 - 👯 I’m looking to collaborate on Machine Learning and Deep Learning
-- 👨‍💻 Read more about my projects at [my blog](https://beafypanda.hashnode.dev/)
 
 🔗 &nbsp;**Connect with me**
 <p align="left">
